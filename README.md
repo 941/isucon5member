@@ -1,4 +1,6 @@
-# isucon5member
+ISUCON5 参加メンバー募集
+=======
+
 ISUCON5のメンバー募集用です以下の内容を記入してIssueとしてあげてください。
 https://github.com/941/isucon5member/issues/new
 
